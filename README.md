@@ -377,24 +377,11 @@ This portfolio demonstrates the methodology and technical approach without expos
 ## 📞 Contact
 
 **Mehmet Cetin**  
-Business Intelligence Analyst | Data Analytics Professional
+Data Analyst | BI Developer  
 
-* LinkedIn: https://www.linkedin.com/in/mehmet-cetin-461674a4/
-* Email: mcetin11@gmail.com
-* GitHub: https://github.com/mcetin-data
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mehmet-cetin-461674a4/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/mcetin-data)
 
 ---
 
 *This project demonstrates professional-level BI development, stakeholder collaboration, and end-to-end solution ownership. Available for discussion in technical interviews.*
-
-## About
-
-Advanced RFM customer segmentation platform enabling self-service marketing analytics for 800K+ customers
-
-### License
-
-MIT License
-
-### Topics
-
-`power-bi` `data-analytics` `customer-segmentation` `rfm-analysis` `dax` `sql-server` `azure-sql` `microsoft-fabric` `business-intelligence` `marketing-analytics`
